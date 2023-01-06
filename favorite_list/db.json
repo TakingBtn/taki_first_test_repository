@@ -1,0 +1,19 @@
+{
+    "favorite_list":[
+        {
+            "id": "001",
+            "title": "vue",
+            "url": "https://cn.vuejs.org/"
+        },
+        {
+            "id": "002",
+            "title": "react",
+            "url": "https://react.docschina.org/"
+        },
+        {
+            "id": "003",
+            "title": "mockjs",
+            "url": "http://mockjs.com/"
+        }
+    ]
+}
